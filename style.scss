@@ -31,6 +31,7 @@ body {
   color: #92f442;
   font-weight: bold; 
   background: #92f442;
+  opacity: 0.5;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -64,7 +65,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $green;
+  color: rgb(146, 244, 66);
 }
 
 p {
@@ -72,11 +73,11 @@ p {
 }
 
 a {
-  color: $green;
+  color: rgb(146, 244, 66);
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $green;
+    color: rgb(146, 244, 66);
   }
 }
 
