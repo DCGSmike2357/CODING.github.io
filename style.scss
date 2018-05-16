@@ -28,7 +28,7 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-  color: $blue;
+  color: #92f442;
   font-weight: bold; 
   background: #92f442;
 }
@@ -40,7 +40,7 @@ h1, h2, h3, h4, h5, h6 {
 
   line-height: 1.7;
   margin: 1em 0 15px;
-  padding: 0;
+  padding: 20;
 
   @include mobile {
     line-height: 1.4;
