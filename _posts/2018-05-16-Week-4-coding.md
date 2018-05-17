@@ -6,6 +6,13 @@ permalink: /week-4-coding/
 source-id: 1qqVX65xLsJnTZ7vJVRuftKe-2vGzKztU_0u-ZonPNbU
 published: true
 ---
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
 <table>
   <tr>
     <td>Title</td>
