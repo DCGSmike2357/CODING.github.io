@@ -16,7 +16,13 @@
 html {
   font-size: 100%;
 }
+table {
+    border-collapse: collapse;
+}
 
+table, th, td {
+    border: 1px solid black;
+}
 body {
 	background-image: url("http://www.catster.com/wp-content/uploads/2017/08/Pixiebob-cat.jpg");
   font: 18px/1.4 $helvetica;
